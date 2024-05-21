@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/upl-talk-ai/static/css/main.ded3b8cf.css",
+    "main.js": "/upl-talk-ai/static/js/main.5fc59b40.js",
+    "static/js/453.802356e2.chunk.js": "/upl-talk-ai/static/js/453.802356e2.chunk.js",
+    "static/media/logo_vectorise.png": "/upl-talk-ai/static/media/logo_vectorise.aea39af3ded284446afd.png",
+    "index.html": "/upl-talk-ai/index.html",
+    "main.ded3b8cf.css.map": "/upl-talk-ai/static/css/main.ded3b8cf.css.map",
+    "main.5fc59b40.js.map": "/upl-talk-ai/static/js/main.5fc59b40.js.map",
+    "453.802356e2.chunk.js.map": "/upl-talk-ai/static/js/453.802356e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ded3b8cf.css",
+    "static/js/main.5fc59b40.js"
+  ]
+}
